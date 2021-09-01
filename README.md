@@ -14,3 +14,5 @@ The above Path and below File list only required one code statement:
 ```
 
 ![File Drop](images/readme2.png)
+
+Shown during the [ClarionLive Open Webinar March 24, 2021 at time 1:43:30](https://www.youtube.com/watch?v=GfZzmYIegXc&t=1h43m30s)
